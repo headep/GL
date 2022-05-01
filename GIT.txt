@@ -1,0 +1,5 @@
+ssh-keygen -t ed25519 -C "kinstauser@kinsta.com"
+clip < ~/.ssh/id_rsa.pub
+
+git config --global user.name "Oleksandr Revebtsov"
+git config --global user.email vozithelp@gmail.com
