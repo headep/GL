@@ -3,3 +3,4 @@ clip < ~/.ssh/id_rsa.pub
 
 git config --global user.name "Oleksandr Revebtsov"
 git config --global user.email vozithelp@gmail.com
+//test fetch
